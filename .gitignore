@@ -1,4 +1,5 @@
-out/
+*.class
+
 .classpath
 .project
 .idea
