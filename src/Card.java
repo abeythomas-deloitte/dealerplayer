@@ -37,6 +37,6 @@ public class Card {
 
 	@Override
 	public String toString() {
-		return "Selected Card{" + "suite=" + suite + ", rank=" + rank + '}';
+		return "Card{" + "suite=" + suite + ", rank=" + rank + '}';
 	}
 }
