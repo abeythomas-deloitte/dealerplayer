@@ -37,6 +37,6 @@ public class Card {
 
 	@Override
 	public String toString() {
-		return "Card details master :{" + "suite=" + suite + ", rank=" + rank + '}';
+		return "Card details developer :{" + "suite=" + suite + ", rank=" + rank + '}';
 	}
 }
